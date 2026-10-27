@@ -148,11 +148,13 @@ server.close()
 ##Output:
 
 CLIENT OUTPUT:
-![Uploading Screenshot 2026-10-27 091817.png…]()
+<img width="1846" height="340" alt="Screenshot 2026-10-27 091817" src="https://github.com/user-attachments/assets/6f60ce1a-8de0-4c45-9879-27df84c8242b" />
+
 
 
 SERVER PROGRAM:
-![Uploading Screenshot 2026-10-27 091802.png…]()
+<img width="1857" height="357" alt="Screenshot 2026-10-27 091802" src="https://github.com/user-attachments/assets/cb595c60-402c-4345-a7b3-d373cf5f2da6" />
+
 
 
 
